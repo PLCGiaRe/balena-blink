@@ -6,7 +6,6 @@ Integrated with nginx to help manage local server from outside the internet via 
 
 # Stay in the loop
 
-👉🏻&nbsp;`<a href="https://youtube.com/c/taymay">` Subscribe to our newsletter `</a>`&nbsp;👈🏻&nbsp; to stay updated on the latest development of balena Blynk local server.
 
 # Did you get stuck? Get help!
 
@@ -34,7 +33,7 @@ Please [let me know]() if you are successfully running balena-blynk on a hardwar
 
 # Credits
 
-The balena-blynk project was created and maintained by [Kenh Tay May]().
+The balena-blynk project was created and maintained by []().
 
 -  (stop running)
 -  (java server)
